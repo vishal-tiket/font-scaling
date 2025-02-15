@@ -1,7 +1,4 @@
 html {
-    -webkit-text-size-adjust: 100%;
-    text-size-adjust: 100%;
-    font-size: 100%;
     /* Must go on the HTML tag to work with rem */
     font: -apple-system-body;
 }
